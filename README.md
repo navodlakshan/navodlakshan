@@ -24,7 +24,9 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&" alt="navodlakshan" />
+    <a href="https://github.com/navodlakshan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
 ## 📊 My Github Stats
@@ -35,7 +37,7 @@
   <br/>
 <br/>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<h3>⚡ Recent GitHub Activity</h3>
 <br/>
 <a href="https://github.com/navodlakshan/github-readme-activity-graph"><img alt="Navod Lakshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navodlakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
