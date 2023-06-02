@@ -37,7 +37,7 @@
   <br/>
 <br/>
 
-<h3>⚡ Recent GitHub Activity</h3>
+<h1>⚡ Recent GitHub Activity</h1>
 <br/>
 <a href="https://github.com/navodlakshan/github-readme-activity-graph"><img alt="Navod Lakshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navodlakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
