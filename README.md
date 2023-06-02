@@ -1,8 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<br/>
+<br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>
 <h3 align="center">I am an undergraduate student at Ruhuna University.</h3>
-
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -11,7 +12,8 @@
 
 - ⚡ Fun fact **I am funny.**
 
-
+<br/>
+<br/>
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -22,13 +24,15 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
-
+<br/>
+<br/>
 <p align="center">
     <a href="https://github.com/navodlakshan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<br/>
+<br/>
 ## 📊 My Github Stats
 
   <br/>
@@ -37,7 +41,7 @@
   <br/>
 <br/>
 
-<h1>⚡ Recent GitHub Activity</h1>
+<h2>⚡ Recent GitHub Activity</h2>
 <br/>
 <a href="https://github.com/navodlakshan/github-readme-activity-graph"><img alt="Navod Lakshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navodlakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
@@ -51,6 +55,7 @@
 <a href="https://instagram.com/navod.lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navod.lakshan_" height="30" width="40" /></a>
 
 </p>
+<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
