@@ -5,7 +5,7 @@
 <h3 align="center">I am an undergraduate student at Ruhuna University.</h3>
 <br/>
 
-## 🙋‍♂️ About Me
+<h3> 🙋‍♂️ About Me:</h3>
 
 
 - 📫 How to reach me **navodlakshanperera@gmail.com**
@@ -14,7 +14,7 @@
 
 <br/>
 <br/>
-## 🚀 Languages and Tools:
+<h3> 🚀 Languages and Tools:</h3>
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -33,7 +33,7 @@
 </p>
 <br/>
 <br/>
-## 📊 My Github Stats
+<h3> 📊 My Github Stats:</h3>
 
   <br/>
     <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navodlakshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -41,13 +41,13 @@
   <br/>
 <br/>
 
-<h2>⚡ Recent GitHub Activity</h2>
+<h3>⚡ Recent GitHub Activity:</h3>
 <br/>
 <a href="https://github.com/navodlakshan/github-readme-activity-graph"><img alt="Navod Lakshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navodlakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
-## Connect with me:
+<h3> Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/navod lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navod lakshan" height="30" width="40" /></a>
@@ -57,7 +57,7 @@
 </p>
 <br/>
 
-## ❤ Views and Followers
+<h3> ❤ Views and Followers:</h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=navodlakshan">
 </a>
