@@ -1,17 +1,20 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<br/>
-<br/>
+<p align="center">
+<a href="#"><img width="400px" height="auto" src="https://nerdoptimize.com/wp-content/uploads/2021/04/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99-SEO-WordPress.png" height="400px"/></a>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>
-<h3 align="center">I am an undergraduate student at Ruhuna University.</h3>
+<h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 <br/>
 
 <h2> 🙋‍♂️ About Me:</h2>
 
+<h3>- 🌱 I’m currently learning **Java, PHP**</h3>
+
+<h3>- 💬 Ask me about **Java**</h3>
 
 <h3>- 📫 How to reach me **navodlakshanperera@gmail.com**</h3>
-<h3>- ⚡ Fun fact **I am funny.**</h3>
 
-<br/>
+<h3>- ⚡ Fun fact **I am funny and happy**</h3>
+
 <br/>
 <h2> Connect with me:</h2>
 <p align="left">
@@ -25,30 +28,29 @@
 <h2> 🚀 Languages and Tools:</h2>
 
 <p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
-<br/>
 <br/>
 <p align="center">
     <a href="https://github.com/navodlakshan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&stroke=0000&background=020E2A"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&stroke=0000&background=0F0331"/>
     </a>
 </p>
-<br/>
 <br/>
 <h2> 📊 My Github Stats:</h2><br/>
 
   <br/>
   <p align="center">
-    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navodlakshan&show_icons=true&count_private=true&theme=react&bg_color=0F022A" /></a>
+    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navodlakshan&show_icons=true&count_private=true&theme=react&bg_color=0F022A&border_color=18d26e&border_size=5px" /></a>
   </p></br>
   <p align="center">
-    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A" /></a>
+    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A&border_color=18d26e" /></a>
   </p>
   <br/>
 <br/>
