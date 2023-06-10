@@ -5,16 +5,24 @@
 <h3 align="center">I am an undergraduate student at Ruhuna University.</h3>
 <br/>
 
-<h3> 🙋‍♂️ About Me:</h3>
+<h2> 🙋‍♂️ About Me:</h2>
 
 
-- 📫 How to reach me **navodlakshanperera@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
+<h3>- 📫 How to reach me **navodlakshanperera@gmail.com**</h3>
+<h3>- ⚡ Fun fact **I am funny.**</h3>
 
 <br/>
 <br/>
-<h3> 🚀 Languages and Tools:</h3>
+<h2> Connect with me:</h2>
+<p align="left">
+
+<a href="https://linkedin.com/in/navod lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navod lakshan" height="30" width="40" /></a>
+<a href="https://fb.com/navod lakshan kankaniga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navod lakshan kankaniga" height="30" width="40" /></a>
+<a href="https://instagram.com/navod.lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navod.lakshan_" height="30" width="40" /></a>
+
+</p>
+<br/>
+<h2> 🚀 Languages and Tools:</h2>
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -28,36 +36,30 @@
 <br/>
 <p align="center">
     <a href="https://github.com/navodlakshan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&stroke=0000&background=020E2A"/>
     </a>
 </p>
 <br/>
 <br/>
-<h3> 📊 My Github Stats:</h3>
+<h2> 📊 My Github Stats:</h2><br/>
 
   <br/>
-    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navodlakshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center">
+    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navodlakshan&show_icons=true&count_private=true&theme=react&bg_color=0F022A" /></a>
+  </p></br>
+  <p align="center">
+    <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A" /></a>
+  </p>
   <br/>
 <br/>
 
-<h3>⚡ Recent GitHub Activity:</h3>
+<h2>⚡ Recent GitHub Activity:</h2>
 <br/>
 <a href="https://github.com/navodlakshan/github-readme-activity-graph"><img alt="Navod Lakshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navodlakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
-<h3> Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/navod lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navod lakshan" height="30" width="40" /></a>
-<a href="https://fb.com/navod lakshan kankaniga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navod lakshan kankaniga" height="30" width="40" /></a>
-<a href="https://instagram.com/navod.lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navod.lakshan_" height="30" width="40" /></a>
-
-</p>
-<br/>
-
-<h3> ❤ Views and Followers:</h3>
+<h2> ❤ Views and Followers:</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=navodlakshan">
 </a>
