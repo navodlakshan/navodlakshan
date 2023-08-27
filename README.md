@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="400px" height="auto" src="https://nerdoptimize.com/wp-content/uploads/2021/04/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99-SEO-WordPress.png" height="400px"/></a>
+<a href="#"><img width="600px" src="https://nerdoptimize.com/wp-content/uploads/2021/04/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99-SEO-WordPress.png" height="400px "/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>
 <h3 align="center">BICT.(Hons) Software Engineering</h3>
