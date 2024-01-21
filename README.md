@@ -96,7 +96,6 @@
     <a href="https://github.com/navodlakshan/github-readme-stats"><img alt="Navod Lakshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodlakshan&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0F022A&border_color=18d26e" /></a>
   </p>
   <br/>
-<br/>
 
 <h2>⚡ Recent GitHub Activity:</h2>
 
