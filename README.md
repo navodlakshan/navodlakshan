@@ -8,10 +8,11 @@
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h2> 🙋‍♂️ About Me:</h2>
-    
+ <h3>   
+     
 - 🌱 I’m currently learning &nbsp; <b> **Java, Sring Boot , Angular** </b>
 
 - 💬 Ask me about &nbsp; **Java**
@@ -19,6 +20,8 @@
 - 📫 How to reach me &nbsp; **navodlakshanperera@gmail.com**
 
 - ⚡ Fun fact &nbsp; **I am funny and happy**
+
+</h3>
 
 <br/>
 
@@ -113,9 +116,7 @@
   </p>
   <br/>
 
-<h2>⚡ Recent GitHub Activity:
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</h2>
+<h2>⚡ Recent GitHub Activity: </h2>
 
 <p align="center">
     
