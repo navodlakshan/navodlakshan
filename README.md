@@ -1,20 +1,24 @@
 <p align="center">
 <a href="#"><img width="600px" src="https://nerdoptimize.com/wp-content/uploads/2021/04/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99-SEO-WordPress.png" height="400px "/></a>
 </p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>
 <h3 align="center">BICT. (Hons) Software Engineering</h3>
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 <br/>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <h2> 🙋‍♂️ About Me:</h2>
+    
+- 🌱 I’m currently learning &nbsp; <b> **Java, Sring Boot , Angular** </b>
 
-<h3>- 🌱 I’m currently learning **Java, PHP, Arduino**</h3>
+- 💬 Ask me about &nbsp; **Java**
 
-<h3>- 💬 Ask me about **Java**</h3>
+- 📫 How to reach me &nbsp; **navodlakshanperera@gmail.com**
 
-<h3>- 📫 How to reach me **navodlakshanperera@gmail.com**</h3>
-
-<h3>- ⚡ Fun fact **I am funny and happy**</h3>
+- ⚡ Fun fact &nbsp; **I am funny and happy**
 
 <br/>
 
@@ -23,11 +27,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/navod lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navod lakshan" height="30" width="40" /></a>
 <img width="12" />
-<a href="https://fb.com/navod lakshan kankaniga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navod lakshan kankaniga" height="30" width="40" /></a>
+<a href="https://twitter.com/NavodLaks6517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NavodLaks6517" height="30" width="40" /></a>
 <img width="12" />
 <a href="https://instagram.com/navod.lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navod.lakshan_" height="30" width="40" /></a>
 <img width="12" />
-<a href="https://www.youtube.com/c/navod lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="navod lakshan" height="35" width="40" /></a>
+<a href="https://fb.com/navod lakshan kankaniga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navod lakshan kankaniga" height="30" width="40" /></a>
 <img width="12" />
 </p>
 <br/>
@@ -63,7 +67,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
     <img width="12" />
@@ -79,6 +83,18 @@
     <img width="12" /> -->
 </p>
 <br/>
+    
+## :dart: Top Projects: ##
+
+<p align="center">
+
+[![Data-Structures-and-Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=navodlakshan&repo=Data-Structures-and-Algorithms-&border_color=18d26e&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/navodlakshan/Data-Structures-and-Algorithms)
+
+<br>
+<br>
+
+</p>
+
 <p align="center">
     <a href="https://github.com/navodlakshan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navod Lakshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navodlakshan&theme=black-ice&stroke=0000&background=0F0331"/>
@@ -97,16 +113,20 @@
   </p>
   <br/>
 
-<h2>⚡ Recent GitHub Activity:</h2>
+<h2>⚡ Recent GitHub Activity:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</h2>
 
-<br/>
-<a href="https://github.com/navodlakshan/github-readme-activity-graph"><img alt="Navod Lakshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=navodlakshan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+<p align="center">
+    
+![Navod Lakshan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=navodlakshan&custom_title=Navod_Lakshan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</p>
 
 <h2> ❤ Views and Followers:</h2>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=navodlakshan">
-</a>
+</a> &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/navodlakshan?tab=followers"><img src="https://img.shields.io/github/followers/navodlakshan?label=Followers&style=social" alt="GitHub Badge"></a>
+
