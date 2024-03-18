@@ -8,7 +8,7 @@
 <h3 align="center">BICT. (Hons) Software Engineering</h3>
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 
-<img align="right" alt="Coding" width="350" height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="325" height="325" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h2> 🙋‍♂️ About Me:</h2>
 
@@ -114,7 +114,6 @@
 ![Navod Lakshan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=navodlakshan&custom_title=Navod_Lakshan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=18d26e&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true)
 
 </p>
-
 <h2> ❤ Views and Followers:</h2>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
