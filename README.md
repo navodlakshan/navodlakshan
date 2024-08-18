@@ -9,7 +9,7 @@
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 
 <p align= "center"> 
-<img padding-left="20px" align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img padding-left="40px" align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 </p>
 
 <h2> 🙋‍♂️ About Me:</h2>
@@ -38,6 +38,8 @@
 <a href="https://instagram.com/navod.lakshan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navod.lakshan_" height="30" width="40" /></a>
 <img width="12" />
 <a href="https://fb.com/navod lakshan kankaniga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navod lakshan kankaniga" height="30" width="40" /></a>
+<img width="12" />
+<a href="https://stackoverflow.com/users/23664798/navod-lakshan-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navod lakshan kankaniga" height="35" width="40" /></a>
 <img width="12" />
 </p>
 <br/>
