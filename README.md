@@ -26,9 +26,6 @@
 
 <br/>
 
-<img src="https://i.gifer.com/3WyW.mp4"/>
-
-
 <h2> Connect with me:</h2>
 
 <p align="left">
@@ -46,8 +43,9 @@
 <h2> 🚀 Languages and Tools:</h2>
 
 <p align="center"> 
-
 <b>
+
+ <img src="https://i.giphy.com/kimWBtJDjWcwFH2nRB.webp"  align="right" height="370" width="370"/>
  
 - Programming Languages
 </b>
@@ -57,6 +55,7 @@
   </a>
 </p>
 <b>
+<!--  <img src="https://media.tenor.com/qPnFHvp8qMIAAAAi/alex-and-cosmo-cute.gif"  align="right" height="300" width="300"/> -->
  
 - Backend
 </b>
