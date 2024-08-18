@@ -8,9 +8,8 @@
 <h3 align="center">BICT. (Hons) Software Engineering</h3>
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 
-<br/><br/><br/><br/>
-<p align= "center">
-<img align="right" alt="Coding" width="325" height="325" src="https://camo.githubusercontent.com/072d7f86526d4f63ed5244a0f1aaeb358354b3753592de5e15065866f4b2d893/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966"> 
+<p align= "center"> 
+<img padding-left="20px" align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 </p>
 
 <h2> 🙋‍♂️ About Me:</h2>
