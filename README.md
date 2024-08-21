@@ -1,7 +1,11 @@
 <p align="center">
 <a href="#"><img width="600px" src="https://nerdoptimize.com/wp-content/uploads/2021/04/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99-SEO-WordPress.png" height="400px "/></a>
 </p>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+ 
 <br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>
@@ -48,8 +52,6 @@
 
 <p align="center"> 
 <b>
- 
-<!-- <img src="https://i.giphy.com/kimWBtJDjWcwFH2nRB.webp"  align="right" height="370" width="370"/> -->
 
 <img src="https://media.tenor.com/qPnFHvp8qMIAAAAi/alex-and-cosmo-cute.gif"  align="right" height="370" width="370"/>
  
