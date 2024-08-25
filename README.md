@@ -77,7 +77,7 @@
 </b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,angular,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,angular,react,bootstrap,tailwind,ts" />
   </a>
 </p>
 <b>
@@ -95,7 +95,7 @@
 </b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,ubuntu,arduino,idea,ps,wordpress,androidstudio,pycharm,webstorm" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,ubuntu,arduino,idea,ps,wordpress,androidstudio,pycharm,webstorm,clion" />
   </a>
 </p>
 <br>
