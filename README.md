@@ -10,7 +10,7 @@
 
 <!--<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navod Lakshan Perera</h1>-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=550&height=100&duration=3500&lines=Hi+👋+;+I'm+Navod+Lakshan+Perera;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=550&height=100&duration=3500&lines=Hi+👋+;+I'm+Navod+Lakshan+Perera;" />
 </h1>
 <h3 align="center">BICT. (Hons) Software Engineering</h3>
 <h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
