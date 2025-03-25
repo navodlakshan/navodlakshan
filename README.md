@@ -10,8 +10,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
-<h2 align="center">BICT. (Hons) Software Engineering</h2>
-<h2 align="center">I am an Undergraduate Student at University of Ruhuna.</h2>
+<h3 align="center">BICT. (Hons) Software Engineering</h3>
+<h3 align="center">I am an Undergraduate Student at University of Ruhuna.</h3>
 
 <br><br><br>
 <p align= "center"> 
